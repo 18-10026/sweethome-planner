@@ -1,1 +1,9 @@
 {"homepage":"https://18-10026.github.io/sweet-home","name":"sweet-home","version":"0.1.1","private":true,"dependencies":{"@supabase/supabase-js":"^2.112.3","@testing-library/dom":"^10.4.1","@testing-library/jest-dom":"^6.9.1","@testing-library/react":"^16.3.2","@testing-library/user-event":"^13.5.0","html2canvas":"^1.4.1","lucide-react":"^1.33.0","react":"^19.2.8","react-dom":"^19.2.8","react-scripts":"5.0.1","web-vitals":"^2.1.4"},"scripts":{"start":"react-scripts start","build":"react-scripts build","test":"react-scripts test","eject":"react-scripts eject","predeploy":"npm run build","deploy":"gh-pages -d build -r https://github.com/18-10026/sweet-home.git"},"eslintConfig":{"extends":["react-app","react-app/jest"]},"browserslist":{"production":[">0.2%","not dead","not op_mini all"],"development":["last 1 chrome version","last 1 firefox version","last 1 safari version"]},"devDependencies":{"gh-pages":"^6.3.0"}}
+
+{
+  "name": "sweet-home",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".", 
+  ...
+}
